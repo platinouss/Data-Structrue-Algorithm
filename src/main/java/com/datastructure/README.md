@@ -1,7 +1,4 @@
 # Data Structrue & Algorithm
-개인공부용
-
-원서 : Think Data Structures Algorithms and Information Retrieval in Java
 
 1. Selection Sort
 2. ArrayList
