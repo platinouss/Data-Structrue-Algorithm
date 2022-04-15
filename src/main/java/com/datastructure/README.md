@@ -1,18 +1,22 @@
 # Data Structrue & Algorithm
 
-1. Selection Sort
-2. ArrayList
-3. LinkedList
-4. Doubly-linked list
-5. Tree traversal
-6. Getting to Philosophy
-7. Indexer
-8. Map
-9. Hashing
-10. HashMap
-11. TreeMap
-12. Binary search tree
-13. Persistence
-14. Crawling Wikipedia
-15. Boolean search
-16. Sorting
+- Selection Sort : SelectionSort.java
+- ArrayList : MyArrayList.java, MyArrayListTest.java
+- LinkedList(단일 연결) : MyLinkedList.java, MyLinkedListTest.java
+- Doubly-linked list : Profiler.java, ProfileListAdd.java
+  * 자바에서의 LinkedList는 이중 연결로 구현되어 있음
+  * MyArrayList와 MyLinkedList, LinkedList의 add 성능 분류 및 결과 해석
+- Tree traversal : WikiNodeExample.java
+  * 자료구조를 통한 웹 크롤러(jsoup) 원리
+  * DOM 트리, DFS(depth first search)
+- Getting to Philosophy
+- Indexer
+- Map
+- Hashing
+- HashMap
+- TreeMap
+- Binary search tree
+- Persistence
+- Crawling Wikipedia
+- Boolean search
+- Sorting
