@@ -11,6 +11,8 @@
   * DOM(Document Object Model) 트리
 - Getting to Philosophy
 - Indexer
+  * TermCounter : 검색어 + 검색어가 페이지에 등장하는 횟수 맵핑
+  * Index : 검색어가 등장하는 TermCounter(각 url)를 모두 맵핑
 - Map
 - Hashing
 - HashMap
