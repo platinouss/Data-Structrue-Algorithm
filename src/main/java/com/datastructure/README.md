@@ -1,12 +1,12 @@
 # Data Structrue & Algorithm
 
-- Selection Sort : SelectionSort.java
-- ArrayList : MyArrayList.java, MyArrayListTest.java
-- LinkedList(단일 연결) : MyLinkedList.java, MyLinkedListTest.java
-- Doubly-linked list : Profiler.java, ProfileListAdd.java
+- Selection Sort : SelectionSort
+- ArrayList : MyArrayList, MyArrayListTest
+- LinkedList(단일 연결) : MyLinkedList, MyLinkedListTest
+- Doubly-linked list : Profiler, ProfileListAdd
   * 자바에서의 LinkedList는 이중 연결로 구현되어 있음
   * MyArrayList와 MyLinkedList(단일 연결), LinkedList(이중 연결)의 add 성능 분류 및 결과 해석
-- Tree traversal : WikiNodeExample.java
+- Tree traversal : WikiNodeExample
   * 자료구조를 통한 웹 크롤러(jsoup) 원리 (재귀적, 반복적 방법으로 DFS 구현)
   * DOM(Document Object Model) 트리
 - Getting to Philosophy
